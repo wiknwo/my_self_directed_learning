@@ -1,4 +1,5 @@
 # My Self-Directed Learning
+*We can teach ourselves because there are others to learn from who have paved the way before us. Trailblazers.*
 - **Education:** An enlightening experience (Definition from Google) 
 - **Autodidact:** Self + Teach = Teach Yourself
 ## File Naming Conventions
